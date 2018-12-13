@@ -43,6 +43,10 @@ Now you have a json string you can copy into your file. Now print the name of th
 5. Use CSS to divide the page in two columns. The left column will have a list of the names for repository. The right column should have the following information about each repository: the number of `stargazers`, the number of `watchers`, the number of `forks`, the `language` of the repository.
 6. place the `avatar_url` (logo) of our organization somewhere on a nice place in your page.
 
+## Step 4: Feedback giving time!
+Find a student to give feedback using this site: https://hyf-peer-review.herokuapp.com/
+The feedback should be given after the homework has been handed in preferably latest two days after. To see how to give good feedback go here: https://docs.google.com/document/d/11tuiV3BQcP7H0X-JID8-T5MdsUcNCKvmMaRiak59ZDU/edit?usp=sharing
+
 ## Step 4: Hand in Homework:
 Go over your homework one last time:
 
